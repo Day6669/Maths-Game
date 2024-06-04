@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3E49F636-B44B-4542-BFD7-5555FE9D7499}|Default">
+  <MonoDevelop.Ide.ItemProperties.OOP_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+    <Files>
+      <File FileName="OOP 2/Program.cs" />
+      <File FileName="OOP 2/Cards.cs" Line="31" Column="17" />
+      <File FileName="OOP 2/MathTutor.cs" />
+      <File FileName="OOP 2/Tutorial.cs" />
+      <File FileName="OOP 2/scores.txt" />
+      <File FileName="OOP 2/Testing.cs" />
+      <File FileName="OOP 2/IMathsApp.cs" />
+      <File FileName="OOP 2/Pack.cs" />
+      <File FileName="OOP 2/BasePack.cs" />
+      <File FileName="OOP 2/.gitignore" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP 2" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
